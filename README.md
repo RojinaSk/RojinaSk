@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RojinaSk ROJINA SAPKOTA
-- 👀 I’m interested in answering biological questions through multi-omics sequence analysis.
 - 🌱 I’m currently doing my masters in Bioinformatics and computational biology
+-  👀 I’m interested in genomic data analysis to get meaningful insights hidden under large complex biological dataset.
 - 💞️ I’m looking to collaborate on any projects that analyze biological data to get an answer to a lingering problem
 - 📫 How to reach me: rozinasap@gmail.com
 <!---
