@@ -1,9 +1,9 @@
 # Hi, I'm Rojina Sapkota
 
-Master’s in Bioinformatics & Computational Biology  
-Genomic Data Intern @ Colorado Department of Public Health & Environment 
-Bridging biology and data to drive discovery and public health impact
-Open to full-time roles in bioinformatics, cancer genomics and public health disease analysis
+- Master’s in Bioinformatics & Computational Biology  
+- Genomic Data Intern @ Colorado Department of Public Health & Environment 
+- Bridging biology and data to drive discovery and public health impact
+- Open to full-time roles in bioinformatics, cancer genomics and public health disease analysis
 
 # Technical Expertise
 - Bulk RNA-seq Analysis: Preprocessing and alignment using tools such as FastQC, Trimmomatic, HISAT2, SAMtools, RNA-SeQC, and featureCounts
